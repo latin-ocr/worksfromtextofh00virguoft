@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksfromtextofh00virguoft_0079.png"; bbox 0 0 1705 2744; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1215 1169 1259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1215 1169 1259">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 1215 1169 1259; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 624 1215 665 1258; x_wconf 91' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 693 1215 918 1259; x_wconf 86' lang='lat' dir='ltr'>VIRGILII</span> <span class='ocrx_word' id='word_1_3' title='bbox 943 1216 1169 1259; x_wconf 82' lang='lat' dir='ltr'><strong>MARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 541 1365 1255 1435">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 541 1365 1255 1435">
+     <span class='ocr_line' id='line_1_2' title="bbox 541 1365 1255 1435; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 541 1365 1255 1435; x_wconf 78' lang='lat' dir='ltr'>GEORGICON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 645 1548 1147 1581">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 645 1548 1147 1581">
+     <span class='ocr_line' id='line_1_3' title="bbox 645 1548 1147 1581; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 645 1548 812 1581; x_wconf 86' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 843 1549 1147 1581; x_wconf 86' lang='lat' dir='ltr'><strong>SECUNDUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
